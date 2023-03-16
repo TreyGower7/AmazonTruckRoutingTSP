@@ -1,2 +1,2 @@
 # Academic projects
-A repository containing my academic projects from 2021-2024
+A repository containing the Amazon Truck Routing Simulation for the Traveling salesman problem (TSP).
